@@ -1,0 +1,19 @@
+
+lcd - Downloaded to test LCD
+lcd_0 - Latest implementation of system
+test.py - open sources code used to test display of LCD
+test 0.c - I2C test code 
+test0.py - LCD test code. Attempt to print. Verify Color change on input
+test1_0.c - print analog input
+test1_2.c - attempt at two analog input values
+test1.c - single analog input printed to console
+test1.py - testing input and storing methods in python
+test2.c - controlling an LED with a rotary switch
+test3.c - success at one LED control via rotary
+test4.c - LED and buzzer control through rotary
+test5.c - Threshold test
+test6_delay.c - button interrupt with delay
+test6_immediate_alert.c - button interrupt without delay
+test6..c - button interrupt basic
+test7.c - cleaner version of test6.c with delay
+test8.c - cleaner version of test7.c
