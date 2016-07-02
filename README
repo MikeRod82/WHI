@@ -1,6 +1,3 @@
-
-lcd - Downloaded to test LCD
-lcd_0 - Latest implementation of system
 test.py - open sources code used to test display of LCD
 test 0.c - I2C test code 
 test0.py - LCD test code. Attempt to print. Verify Color change on input
